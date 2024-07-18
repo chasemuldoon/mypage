@@ -1,3 +1,6 @@
 [submodule "clickgame"]
 	path = clickgame
 	url = https://github.com/LucasNussbaum/clickgame.git
+[submodule "ponggame"]
+	path = ponggame
+	url = https://github.com/JackDurso/ponggame.git
